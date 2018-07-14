@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_filter_by_labels">
+        <item>@string/setting_show_all_sections_label</item>
+        <item>@string/settings_filter_by_politics_label</item>
+        <item>@string/settings_filter_by_music_label</item>
+        <item>@string/settings_filter_by_business_label</item>
+        <item>@string/settings_filter_by_world_news_label</item>
+        <item>@string/settings_filter_by_film_label</item>
+        <item>@string/settings_filter_by_society_label</item>
+        <item>@string/settings_filter_by_technology_label</item>
+        <item>@string/settings_filter_by_uk_news_label</item>
+        <item>@string/settings_filter_by_football_label</item>
+        <item>@string/settings_filter_by_books_label</item>
+        <item>@string/settings_filter_by_stage_label</item>
+        <item>@string/settings_filter_by_us_news_label</item>
+        <item>@string/settings_filter_by_sport_label</item>
+
+    </string-array>
+
+    <string-array name="settings_order_by_values">
+        <item>@string/setting_show_all_sections_key_value</item>
+        <item>@string/settings_filter_by_politics_key_value</item>
+        <item>@string/settings_filter_by_music_key_value</item>
+        <item>@string/settings_filter_by_business_key_value</item>
+        <item>@string/settings_filter_by_world_news_key_value</item>
+        <item>@string/settings_filter_by_film_key_value</item>
+        <item>@string/settings_filter_by_society_key_value</item>
+        <item>@string/settings_filter_by_technology_key_value</item>
+        <item>@string/settings_filter_by_uk_news_key_value</item>
+        <item>@string/settings_filter_by_football_key_value</item>
+        <item>@string/settings_filter_by_books_key_value</item>
+        <item>@string/settings_filter_by_stage_key_value</item>
+        <item>@string/settings_filter_by_us_news_key_value</item>
+        <item>@string/settings_filter_by_sport_key_value</item>
+
+    </string-array>
+</resources>
+
